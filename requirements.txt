@@ -7,3 +7,7 @@ langchain
 langchain-community
 langchain-openai
 chromadb
+
+pandas
+numpy
+scikit-learn
